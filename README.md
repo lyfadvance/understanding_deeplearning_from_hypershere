@@ -1,0 +1,3 @@
+本文旨在为深度学习提供一种全新的几何理解框架。基于所提出的方法，我们首先将ResNet中的残差连接重新阐释为欧氏空间中的局部平移变换，进而将这一思想推广至超球面空间，将其扩展为局部平移、反射及旋转变换。此外，通过引入球极投影，我们证明了超球面表示相较于欧氏空间具备更强的表征能力与更优越的理论性质。
+
+This paper aims to provide a novel geometric framework for understanding deep learning. Using the proposed approach, we first reinterpret the residual connections in ResNet as local translation transformations in Euclidean space, and then extend this idea to hyperspherical space, generalizing it to local translation, reflection, and rotation transformations. Furthermore, by introducing stereographic projection, we demonstrate that hyperspherical representations possess greater representational capacity and superior theoretical properties compared to Euclidean space.
